@@ -1,0 +1,19 @@
+git status 觀看檔案狀態
+
+git pull 抓檔案
+
+git add -A Add全部的檔案
+git commit -m “丟什麼note”
+git push 丟檔案上去
+git push origin master 
+
+
+
+
+Git 如何 checkout 某個tag
+從Stack overflow來的答案：
+先利用 git clone 抓取整個repository
+再利用 git tag -l 列出全部的tag清單
+最後用 git checkout <tag_name>
+http://blog.wu-boy.com/2010/08/git-版本控制：利用-git-reset-恢復檔案、暫存狀態、commit-訊息/
+

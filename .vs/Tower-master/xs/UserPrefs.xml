@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{45CF4B0A-8881-25D6-6BB2-3893E3FC04A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyEditor/Editor/MapEditor.cs">
+    <Files>
+      <File FileName="Assets/NGUI/Scripts/Internal/NGUITools.cs" Line="2424" Column="1" />
+      <File FileName="Assets/MyEditor/Editor/MapEditor.cs" Line="114" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tower-master" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tower-master PreferredExecutionTarget="999346f5-5e2d-4685-b08e-79a7beed933f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
