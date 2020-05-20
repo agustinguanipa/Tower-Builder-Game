@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "itween",
+"dataUrl": "Tower Builder.data.unityweb",
+"asmCodeUrl": "Tower Builder.asm.code.unityweb",
+"asmMemoryUrl": "Tower Builder.asm.memory.unityweb",
+"asmFrameworkUrl": "Tower Builder.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

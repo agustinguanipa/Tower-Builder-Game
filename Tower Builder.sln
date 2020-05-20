@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Builder", "Tower Builder.csproj", "{54F94E11-DED7-DFEE-6CE6-F62A94B25F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Builder.Plugins", "Tower Builder.Plugins.csproj", "{3F18B7FE-F203-CDD2-8507-6303D766B432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Builder.Editor", "Tower Builder.Editor.csproj", "{799258B1-5CD4-0C7C-3379-64D79DF59F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F94E11-DED7-DFEE-6CE6-F62A94B25F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F94E11-DED7-DFEE-6CE6-F62A94B25F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F94E11-DED7-DFEE-6CE6-F62A94B25F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F94E11-DED7-DFEE-6CE6-F62A94B25F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F18B7FE-F203-CDD2-8507-6303D766B432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F18B7FE-F203-CDD2-8507-6303D766B432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F18B7FE-F203-CDD2-8507-6303D766B432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F18B7FE-F203-CDD2-8507-6303D766B432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799258B1-5CD4-0C7C-3379-64D79DF59F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799258B1-5CD4-0C7C-3379-64D79DF59F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799258B1-5CD4-0C7C-3379-64D79DF59F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799258B1-5CD4-0C7C-3379-64D79DF59F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
